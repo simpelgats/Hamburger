@@ -13,7 +13,7 @@ public class NavigationItem {
         mText = text;
         mDrawable = drawable;
     }
-
+    //test update
 
     public String getText() {
         return mText;
