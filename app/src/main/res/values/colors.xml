@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#3f51b5</color>
+    <color name="primaryColorDark">#3f51b5</color>
+    <color name="accentColor">#3f51b5</color>
+    <color name="drawerBackground">#f2f2f2</color>
+    <color name="windowsBackground">#dedede</color>
+    <color name="textPrimaryColor">#ffffff</color>
+    <color name="navigationColor">#000000</color>
+
+    <color name="selected_gray">#ffdbdbdb</color>
+</resources>
